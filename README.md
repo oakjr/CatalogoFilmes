@@ -46,7 +46,7 @@ Esta API simula um catálogo de filmes com operações básicas de CRUD (Create,
 
     4. Acesse a documentação Swagger:
 
-    https://localhost:5001/swagger
+    http://localhost:5191/swagger/index.html
 
 ---
 

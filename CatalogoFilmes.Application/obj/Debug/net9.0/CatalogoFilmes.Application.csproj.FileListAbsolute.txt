@@ -13,3 +13,4 @@ C:\Users\omar.junior\projs\CS\CatalogoFilmes.Application\obj\Debug\net9.0\Catalo
 C:\Users\omar.junior\projs\CS\CatalogoFilmes.Application\obj\Debug\net9.0\refint\CatalogoFilmes.Application.dll
 C:\Users\omar.junior\projs\CS\CatalogoFilmes.Application\obj\Debug\net9.0\CatalogoFilmes.Application.pdb
 C:\Users\omar.junior\projs\CS\CatalogoFilmes.Application\obj\Debug\net9.0\ref\CatalogoFilmes.Application.dll
+C:\Users\omar.junior\projs\CS\CatalogoFilmes.Application\obj\Debug\net9.0\CatalogoFilmes.Application.sourcelink.json

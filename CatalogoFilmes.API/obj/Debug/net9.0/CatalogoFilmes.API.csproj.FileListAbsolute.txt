@@ -37,3 +37,4 @@ C:\Users\omar.junior\projs\CS\CatalogoFilmes.API\obj\Debug\net9.0\refint\Catalog
 C:\Users\omar.junior\projs\CS\CatalogoFilmes.API\obj\Debug\net9.0\CatalogoFilmes.API.pdb
 C:\Users\omar.junior\projs\CS\CatalogoFilmes.API\obj\Debug\net9.0\CatalogoFilmes.API.genruntimeconfig.cache
 C:\Users\omar.junior\projs\CS\CatalogoFilmes.API\obj\Debug\net9.0\ref\CatalogoFilmes.API.dll
+C:\Users\omar.junior\projs\CS\CatalogoFilmes.API\obj\Debug\net9.0\CatalogoFilmes.API.sourcelink.json

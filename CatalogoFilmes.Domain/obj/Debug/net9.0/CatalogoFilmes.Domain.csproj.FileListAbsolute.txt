@@ -9,3 +9,4 @@ C:\Users\omar.junior\projs\CS\CatalogoFilmes.Domain\obj\Debug\net9.0\CatalogoFil
 C:\Users\omar.junior\projs\CS\CatalogoFilmes.Domain\obj\Debug\net9.0\refint\CatalogoFilmes.Domain.dll
 C:\Users\omar.junior\projs\CS\CatalogoFilmes.Domain\obj\Debug\net9.0\CatalogoFilmes.Domain.pdb
 C:\Users\omar.junior\projs\CS\CatalogoFilmes.Domain\obj\Debug\net9.0\ref\CatalogoFilmes.Domain.dll
+C:\Users\omar.junior\projs\CS\CatalogoFilmes.Domain\obj\Debug\net9.0\CatalogoFilmes.Domain.sourcelink.json
