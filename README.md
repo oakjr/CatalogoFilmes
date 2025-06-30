@@ -32,7 +32,7 @@ Esta API simula um catálogo de filmes com operações básicas de CRUD (Create,
 
     1. Clone o repositório:
 
-    git clone https://seu-repositorio.git
+    git clone https://github.com/oakjr/CatalogoFilmes.git
     cd CatalogoFilmes
 
     2. Restaure os pacotes e compile a solução:
