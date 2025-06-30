@@ -1,0 +1,11 @@
+C:\Users\omar.junior\projs\CS\CatalogoFilmes.Domain\bin\Debug\net9.0\CatalogoFilmes.Domain.deps.json
+C:\Users\omar.junior\projs\CS\CatalogoFilmes.Domain\bin\Debug\net9.0\CatalogoFilmes.Domain.dll
+C:\Users\omar.junior\projs\CS\CatalogoFilmes.Domain\bin\Debug\net9.0\CatalogoFilmes.Domain.pdb
+C:\Users\omar.junior\projs\CS\CatalogoFilmes.Domain\obj\Debug\net9.0\CatalogoFilmes.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omar.junior\projs\CS\CatalogoFilmes.Domain\obj\Debug\net9.0\CatalogoFilmes.Domain.AssemblyInfoInputs.cache
+C:\Users\omar.junior\projs\CS\CatalogoFilmes.Domain\obj\Debug\net9.0\CatalogoFilmes.Domain.AssemblyInfo.cs
+C:\Users\omar.junior\projs\CS\CatalogoFilmes.Domain\obj\Debug\net9.0\CatalogoFilmes.Domain.csproj.CoreCompileInputs.cache
+C:\Users\omar.junior\projs\CS\CatalogoFilmes.Domain\obj\Debug\net9.0\CatalogoFilmes.Domain.dll
+C:\Users\omar.junior\projs\CS\CatalogoFilmes.Domain\obj\Debug\net9.0\refint\CatalogoFilmes.Domain.dll
+C:\Users\omar.junior\projs\CS\CatalogoFilmes.Domain\obj\Debug\net9.0\CatalogoFilmes.Domain.pdb
+C:\Users\omar.junior\projs\CS\CatalogoFilmes.Domain\obj\Debug\net9.0\ref\CatalogoFilmes.Domain.dll
